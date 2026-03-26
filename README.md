@@ -22,17 +22,15 @@ In the Black-Scholes model, volatility is assumed to be constant. In the Heston 
 Under the risk-neutral measure, the Heston model is
 
 $$
-dS_t = (r-q)S_t\,dt + \sqrt{v_t}S_t\,dW_t^{(1)}
+dS_t = (r-q)S_t dt + \sqrt{v_t} S_t dW_t^{(1)}
 $$
 
 $$
-dv_t = \kappa(\theta - v_t)dt + \sigma \sqrt{v_t}\,dW_t^{(2)}
+dv_t = \kappa(\theta - v_t)dt + \sigma \sqrt{v_t} dW_t^{(2)}
 $$
 
-with
-
 $$
-d\langle W^{(1)}, W^{(2)} \rangle_t = \rho\,dt
+d\langle W^{(1)}, W^{(2)} \rangle_t = \rho dt
 $$
 
 where:
