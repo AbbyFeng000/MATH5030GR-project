@@ -2,12 +2,12 @@
 
 ## Module ownership
 
-- Student 1: repository structure, params, utils, interfaces, README setup
-- Student 2: Heston simulation engine
-- Student 3: realized variance and variance swap pricing
-- Student 4: variance option pricing
-- Student 5: control variate module
-- Student 6: experiments, plots, and final integration
+- Yixin Feng: repository structure, params, utils, interfaces, README setup
+- Ha Pham: Heston simulation engine
+- Yingyue Lai: realized variance and variance swap pricing
+- Jiani Han: variance option pricing
+- Lin Tian: control variate module
+- Xingjian Tian: experiments, plots, and final integration
 
 ## Project rules
 
