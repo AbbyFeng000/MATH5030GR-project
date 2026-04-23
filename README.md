@@ -68,8 +68,6 @@ This package is currently under active development. The main pricing workflow is
 - `heston_mc.variance_option`
 - `heston_mc.control_variate`
 
-For a full project-level explanation, see [`docs/PROJECT_SCOPE.md`](docs/PROJECT_SCOPE.md).
-
 ## Demo notebook
 
 An interactive demo will be available at `notebooks/demo.ipynb`:
