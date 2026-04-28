@@ -132,6 +132,11 @@ Container for pricing output.
 - `heston_mc.interfaces` — shared result containers
 - `heston_mc.params` — shared parameter and Monte Carlo configuration objects
 
+### References
+Broadie, M., & Jain, A. (2008). Pricing and Hedging Volatility Derivatives. The Journal of Derivatives, 15(3), 7–24. https://doi.org/10.3905/jod.2008.702503
+
+Fouque, J.-P., & Han, C.-H. (2004). Variance reduction for Monte Carlo methods to evaluate option prices under multi-factor stochastic volatility models. Quantitative Finance, 4(5), 597–606. https://doi.org/10.1080/14697680400020317
+
 ## License
 
 MIT
